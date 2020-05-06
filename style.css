@@ -1,0 +1,245 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #eaeaea;
+    font: 16px/20px arial, sans-serif;
+    
+}
+
+.header{
+    padding: 10px;
+    padding-bottom: 0px;
+    background-color: #9cd5f3;
+
+}
+.header h1,h2{
+text-align: center;
+padding-top: 39px;
+}
+.header h1{
+    font-size: 50px;
+    font-family: cursive;
+}
+.header h2{
+    font-size: 35px;
+    font-family: cursive;
+    margin-top: 30px;
+}
+.header ul li{
+    display: inline-block;
+    padding-right: 10px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.header ul{
+    float: right;
+}
+.header a{
+    text-decoration: none;
+    color: black;
+    font: 20px/24px constantia, sans-serif;
+    padding: 6px;
+}
+.header a:hover{
+	background-color:#dce9f0;
+	color:black;
+}
+.header .foto{
+    border-radius: 50%;
+    padding: 4px;
+    background-color: aliceblue;
+    margin: 10px;
+}
+
+.header .gambar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.hai{   
+    padding: 10px;
+}
+
+.hai img{
+    padding: 5px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin: 20px auto 0px auto;
+}
+.hai h2{
+    font-size: 35px;
+    font-family: cursive;
+    margin-bottom: 30px;
+}
+
+.hai p {
+    width: 40%;
+    margin: 0px auto;
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+    line-height: 23px;
+    letter-spacing: 2px;
+}
+
+
+.profil{
+    border-top: 1px solid lightskyblue;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #9cd5f3;
+}
+.profil h1{
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+    margin: 40px 0px;
+    padding: 40px;
+    font-size: 40px;
+}
+
+
+.sekolah{
+    width: 80%;
+    margin: 50px auto;
+    padding: 50px;
+}
+.sekolah img {
+    float: left;
+    padding: 5px;
+    width: 225px;
+    height: 225px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    margin-right: 30px;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+.profil .sekolah h3{
+    font-family: cursive;
+    font-size: 26px;
+    padding: 20px; 
+}
+.profil .sekolah p{
+
+    font-family: cursive;
+    font-size: 18px;
+    padding: 20px; 
+    margin-left: 40px; 
+    letter-spacing: 2px;
+    text-indent: 40px;
+    line-height: 21px;
+    text-align: justify;
+}
+
+.organisasi {
+    width: 80%;
+    margin: 50px auto;
+    padding:50px; 
+    padding-right: 30px;
+}
+.organisasi img{
+    float: right;
+    padding: 5px;
+    width: 225px;
+    height: 225px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: 20px;
+    
+}
+.profil .organisasi h3{
+    font-family: cursive;
+    font-size: 26px;
+    padding: 20px; 
+}
+.profil .organisasi p{
+    font-family: cursive;
+    font-size: 18px;
+    padding: 20px; 
+    line-height: 21px;
+    text-align: justify;
+    letter-spacing: 2px;
+    
+}
+
+.kompetensi{
+    width: 80%;
+    margin: 50px auto;
+    padding: 50px;
+}
+.kompetensi img {
+    float: left;
+    padding: 5px;
+    width: 225px;
+    height: 225px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    margin-right: 30px;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+.profil .kompetensi h3{
+    font-family: cursive;
+    font-size: 26px;
+    padding: 20px; 
+}
+.profil .kompetensi p{
+    font-family: cursive;
+    font-size: 18px;
+    padding: 20px; 
+    margin-left: 40px;
+    text-align: justify;
+    line-height: 21px;
+    letter-spacing: 2px; 
+}
+
+.footer{
+    background-color: #9cd5f3;
+    padding: 50px 30px;
+    padding-bottom: 10px;
+}
+.footer ul li{
+    display: inline-block;
+    padding-right: 10px;
+    margin: 0px auto;
+}
+.footer ul{
+    margin-bottom:22px;
+}
+.footer .sosmed li a{
+    font-weight: bold;
+    font-size: 20px;
+}
+.footer ul li a{
+    text-decoration: none;
+    color: black;
+    font: 18px/24px constantia, sans-serif;
+    text-align: center;
+    padding: 4px;
+}
+.footer a:hover{
+	background-color:#dce9f0;
+	color:black;
+}
+.footer p{
+    text-align: center;
+    font-size: 12px;
+    display: block;
+}
+
+
+
+
+
+
